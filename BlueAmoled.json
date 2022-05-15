@@ -14,15 +14,15 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#ff4479",
-      "#ff4479"
+      "#45F9FF",
+      "#45F9FF"
     ],
     "HEADER_PRIMARY": [
-      "#ddb8c2",
+      "#B8DDDE",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#ddb8c2",
+      "#B8DDDE",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
@@ -34,7 +34,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ddb8c2",
+      "#B8DDDE",
       "#FFFFFF"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
